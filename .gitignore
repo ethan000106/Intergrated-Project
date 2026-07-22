@@ -1,0 +1,17 @@
+# Vivado Build & Cache Junk Directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+
+# Vivado Log Files
+*.log
+*.jou
+*.pb
+*.str
+
+# System Files
+.DS_Store
+Thumbs.db
